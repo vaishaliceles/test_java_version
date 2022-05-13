@@ -1,4 +1,9 @@
-os: osx
-dist: xenial
+# os: osx
+# dist: xenial
+# language: java
+# #jdk: openjdk8
 language: java
-#jdk: openjdk8
+os:
+- linux
+- osx
+dist: trusty
