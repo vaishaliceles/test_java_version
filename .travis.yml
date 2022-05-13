@@ -2,7 +2,3 @@ os: osx
 dist: xenial
 language: java
 jdk: openjdk10
-addons:
-  apt:
-    packages:
-      - ant
